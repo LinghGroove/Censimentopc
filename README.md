@@ -13,7 +13,7 @@ This README would normally document whatever steps are necessary to get your app
 =======q
 #teast hola
 
-* Summary of set upaa
+* Summary of set upa
 * Configuration
 * Dependencies
 * Database configuration
