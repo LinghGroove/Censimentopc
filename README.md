@@ -10,10 +10,7 @@ This README would normally document whatever steps are necessary to get your app
 
 ### How do I get set up? ###
 
-=======q
-#teast hola
-
-* Summary of set upa
+* Summary of set up
 * Configuration
 * Dependencies
 * Database configuration
