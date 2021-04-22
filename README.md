@@ -13,8 +13,7 @@ This README would normally document whatever steps are necessary to get your app
 #test
 
 =======q
-#teast hola aaa
-#change a
+#teast hola
 
 * Summary of set upaa
 * Configuration
