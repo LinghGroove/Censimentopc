@@ -17,7 +17,7 @@ o
 =======
 #test hola
 #change
->>>>>>> 7832c4843f744ad76a4f6d34cd47fa1c9a3a66a2
+
 * Summary of set up
 * Configuration
 * Dependencies
