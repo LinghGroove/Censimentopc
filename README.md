@@ -10,8 +10,7 @@ This README would normally document whatever steps are necessary to get your app
 
 ### How do I get set up? ###
 
-#test aaaaaa ciao a
-#chang we we qa
+#test
 
 =======q
 #teast hola aaa
